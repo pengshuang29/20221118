@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="191.63803mm"
+   height="149.04858mm"
+   viewBox="0 0 191.63803 149.04858"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="degerm.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.466344"
+     inkscape:cx="274.15122"
+     inkscape:cy="332.11852"
+     inkscape:window-width="2560"
+     inkscape:window-height="1369"
+     inkscape:window-x="-634"
+     inkscape:window-y="-1448"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g889" />
+  <defs
+     id="defs2">
+    <clipPath
+       id="clip0">
+      <rect
+         x="173"
+         y="68"
+         width="855"
+         height="569"
+         id="rect824" />
+    </clipPath>
+    <clipPath
+       id="clip0-8">
+      <rect
+         x="173"
+         y="68"
+         width="853"
+         height="569"
+         id="rect1117" />
+    </clipPath>
+    <clipPath
+       id="clip0-0">
+      <rect
+         x="173"
+         y="68"
+         width="853"
+         height="569"
+         id="rect1307" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="图层 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-16.821697,-50.032575)">
+    <g
+       clip-path="url(#clip0)"
+       transform="matrix(0.26458333,0,0,0.26458333,-61.733243,31.464782)"
+       id="g889">
+      <path
+         d="m 343.13823,172.84405 v 50.965 h 39.3 v -7.465 l 31.129,21.75 -31.129,21.75 v -7.465 h -67.871 v -79.535 z"
+         stroke="#ffffff"
+         stroke-width="1.33333"
+         stroke-miterlimit="8"
+         fill="#c4d5eb"
+         fill-rule="evenodd"
+         id="path1312" />
+      <path
+         d="m 297.56723,88.01425 c 0,-9.4828 7.687,-17.1701 17.17,-17.1701 h 111.66 c 9.483,0 17.17,7.6873 17.17,17.1701 v 68.6598 c 0,9.483 -7.687,17.17 -17.17,17.17 h -111.66 c -9.483,0 -17.17,-7.687 -17.17,-17.17 z"
+         stroke="#ffffff"
+         stroke-width="1.33333"
+         stroke-miterlimit="8"
+         fill="#5b9bd5"
+         fill-rule="evenodd"
+         id="path1314" />
+      <text
+         fill="#ffffff"
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="21px"
+         id="text1316"
+         x="332.49222"
+         y="111.34405">ProTrans</text>
+      <text
+         fill="#ffffff"
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="21px"
+         id="text1318"
+         x="311.76523"
+         y="143.34406">UniRef</text>
+      <text
+         fill="#ffffff"
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="21px"
+         id="text1320"
+         x="374.52524"
+         y="143.34406">&amp; BFD</text>
+      <text
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="16px"
+         id="text1322"
+         x="449.55923"
+         y="117.34405">•</text>
+      <text
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="16px"
+         id="text1324"
+         x="461.55923"
+         y="117.34405">Language</text>
+      <text
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="16px"
+         id="text1326"
+         x="461.55923"
+         y="135.34406">Model</text>
+      <path
+         d="m 464.13823,287.84405 v 50.965 h 39.3 v -7.465 l 31.129,21.75 -31.129,21.75 v -7.465 h -67.871 v -79.535 z"
+         stroke="#ffffff"
+         stroke-width="1.33333"
+         stroke-miterlimit="8"
+         fill="#d1eceb"
+         fill-rule="evenodd"
+         id="path1328" />
+      <path
+         d="m 418.56723,202.84705 c 0,-9.39 7.613,-17.003 17.003,-17.003 h 111.994 c 9.39,0 17.003,7.613 17.003,17.003 v 67.994 c 0,9.39 -7.613,17.003 -17.003,17.003 h -111.994 c -9.39,0 -17.003,-7.613 -17.003,-17.003 z"
+         stroke="#ffffff"
+         stroke-width="1.33333"
+         stroke-miterlimit="8"
+         fill="#54cccd"
+         fill-rule="evenodd"
+         id="path1330" />
+      <text
+         fill="#ffffff"
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="21px"
+         id="text1332"
+         x="473.00122"
+         y="243.34406">APD</text>
+      <text
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="16px"
+         id="text1334"
+         x="570.70825"
+         y="232.34406">•</text>
+      <text
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="16px"
+         id="text1336"
+         x="582.70825"
+         y="232.34406">Language</text>
+      <text
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="16px"
+         id="text1338"
+         x="582.70825"
+         y="250.34406">Model</text>
+      <path
+         d="m 585.13823,402.84405 v 50.965 h 39.3 v -7.465 l 31.129,21.75 -31.129,21.75 v -7.465 h -67.871 v -79.535 z"
+         stroke="#ffffff"
+         stroke-width="1.33333"
+         stroke-miterlimit="8"
+         fill="#deeee3"
+         fill-rule="evenodd"
+         id="path1340" />
+      <path
+         d="m 539.56723,317.84705 c 0,-9.39 7.613,-17.003 17.003,-17.003 h 111.994 c 9.39,0 17.003,7.613 17.003,17.003 v 67.994 c 0,9.39 -7.613,17.003 -17.003,17.003 h -111.994 c -9.39,0 -17.003,-7.613 -17.003,-17.003 z"
+         stroke="#ffffff"
+         stroke-width="1.33333"
+         stroke-miterlimit="8"
+         fill="#4dc58d"
+         fill-rule="evenodd"
+         id="path1342" />
+      <text
+         fill="#ffffff"
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="21px"
+         id="text1344"
+         x="594.15021"
+         y="357.34406">APD</text>
+      <text
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="16px"
+         id="text1346"
+         x="691.85724"
+         y="355.34406">•</text>
+      <text
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="16px"
+         id="text1348"
+         x="703.85724"
+         y="355.34406">Classifier</text>
+      <path
+         d="m 706.13823,517.84405 v 50.965 h 39.3 v -7.465 l 31.129,21.75 -31.129,21.75 v -7.465 h -67.871 v -79.535 z"
+         stroke="#ffffff"
+         stroke-width="1.33333"
+         stroke-miterlimit="8"
+         fill="#ebf1e9"
+         fill-rule="evenodd"
+         id="path1350" />
+      <path
+         d="m 660.56723,432.84705 c 0,-9.39 7.613,-17.003 17.003,-17.003 h 112.994 c 9.39,0 17.003,7.613 17.003,17.003 v 67.994 c 0,9.39 -7.613,17.003 -17.003,17.003 h -112.994 c -9.39,0 -17.003,-7.613 -17.003,-17.003 z"
+         stroke="#ffffff"
+         stroke-width="1.33333"
+         stroke-miterlimit="8"
+         fill="#48bb4f"
+         fill-rule="evenodd"
+         id="path1352" />
+      <text
+         fill="#ffffff"
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="21px"
+         id="text1354"
+         x="683.13922"
+         y="461.34406">Arabidopsis</text>
+      <text
+         fill="#ffffff"
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="21px"
+         id="text1356"
+         x="690.63922"
+         y="484.34406">Proteome</text>
+      <text
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="16px"
+         id="text1358"
+         x="813.00623"
+         y="461.34406">•</text>
+      <text
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="16px"
+         id="text1360"
+         x="825.00623"
+         y="461.34406">AMPs</text>
+      <text
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="16px"
+         id="text1362"
+         x="825.00623"
+         y="479.34406">Prediction</text>
+      <path
+         d="m 782.56723,547.84705 c 0,-9.39 7.613,-17.003 17.003,-17.003 h 111.994 c 9.39,0 17.003,7.613 17.003,17.003 v 67.994 c 0,9.39 -7.613,17.003 -17.003,17.003 h -111.994 c -9.39,0 -17.003,-7.613 -17.003,-17.003 z"
+         stroke="#ffffff"
+         stroke-width="1.33333"
+         stroke-miterlimit="8"
+         fill="#70ad47"
+         fill-rule="evenodd"
+         id="path1364" />
+      <text
+         fill="#ffffff"
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         font-weight="700"
+         font-size="21px"
+         id="text1366"
+         x="793.02826"
+         y="576.34406">Broth dilution</text>
+      <text
+         fill="#ffffff"
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         font-weight="700"
+         font-size="21px"
+         id="text1368"
+         x="830.78821"
+         y="599.34406">assay</text>
+      <text
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="19px"
+         id="text1370"
+         x="934.9552"
+         y="575.34406">•</text>
+      <text
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         font-style="italic"
+         font-weight="400"
+         font-size="19px"
+         id="text1372"
+         x="946.9552"
+         y="575.34406">In vitro</text>
+      <text
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="19px"
+         id="text1374"
+         x="946.9552"
+         y="596.34406">validation</text>
+    </g>
+  </g>
+</svg>

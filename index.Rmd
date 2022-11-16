@@ -1,0 +1,70 @@
+---
+title: "Seed Anti-Microbial Peptides prediction"
+subtitle: "-- with deep learning methods"
+author: "Shuang PENG"
+institute: "IJPB, INRAE Versailles"
+date: "`r Sys.Date()`"
+output:
+  xaringan::moon_reader:
+    css: ["default", "fc", "fc-fonts"]
+    lib_dir: libs
+    nature:
+      beforeInit: "macros.js"
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+options(knitr.duplicate.label = 'allow')
+```
+
+```{r xaringan-scribble, echo=FALSE}
+xaringanExtra::use_scribble()
+```
+
+class: inverse, center, middle
+
+# Content
+
+.left[
+- Anti-Microbial Peptides
+
+- Machine-Learning Prediction Method
+
+- The Problematic
+]
+
+---
+
+```{r child='introduction.Rmd'}
+```
+
+---
+
+class: inverse, center, middle
+
+# Problematic: we don't have enough annotated data
+
+.left[
+- Data pre-traitement
+  - deep learning "de bout en bout"
+  
+- Reusable model
+  - Transfer learning
+  
+- Supervised learnring without annotation
+  - self-supervised learning
+]
+
+---
+
+```{r child='methodology.Rmd'}
+```
+
+---
+
+class: inverse, center, middle
+
+# Thanks !

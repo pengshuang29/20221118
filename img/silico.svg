@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="131.94574mm"
+   height="143.37117mm"
+   viewBox="0 0 131.94574 143.37117"
+   version="1.1"
+   id="svg1495"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="silico.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1497"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.733172"
+     inkscape:cx="199.81669"
+     inkscape:cy="507.38435"
+     inkscape:window-width="2560"
+     inkscape:window-height="1369"
+     inkscape:window-x="-634"
+     inkscape:window-y="-1448"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1492">
+    <clipPath
+       id="clip0">
+      <rect
+         x="213"
+         y="76"
+         width="854"
+         height="568"
+         id="rect1556" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="图层 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-52.033205,-14.202628)">
+    <g
+       clip-path="url(#clip0)"
+       transform="matrix(0.26458333,0,0,0.26458333,-51.455639,-6.740329)"
+       id="g1629">
+      <path
+         d="M 410,178.5 C 410,134.593 512.751,99 639.5,99 766.249,99 869,134.593 869,178.5 869,222.407 766.249,258 639.5,258 512.751,258 410,222.407 410,178.5 Z"
+         fill="#f6ccbe"
+         fill-rule="evenodd"
+         fill-opacity="0.4"
+         id="path1561" />
+      <path
+         d="m 596.5,518 h 22 v -28.5 h 44 V 518 h 22 l -44,28.5 z"
+         stroke="#ffffff"
+         stroke-width="1.33333"
+         stroke-miterlimit="8"
+         fill="#e1e1e1"
+         fill-rule="evenodd"
+         id="path1563" />
+      <text
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="23px"
+         transform="translate(586.693,566)"
+         id="text1565">AMPs</text>
+      <text
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="23px"
+         transform="translate(644.533,566)"
+         id="text1567">Label</text>
+      <text
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="17px"
+         transform="translate(586.693,596)"
+         id="text1569">•</text>
+      <text
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="17px"
+         transform="translate(598.693,596)"
+         id="text1571">Positive</text>
+      <text
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="17px"
+         transform="translate(586.693,618)"
+         id="text1573">•</text>
+      <text
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="17px"
+         transform="translate(598.693,618)"
+         id="text1575">Negative</text>
+      <path
+         d="m 577.5,350.5 c 0,-44.183 35.817,-80 80,-80 44.183,0 80,35.817 80,80 0,44.183 -35.817,80 -80,80 -44.183,0 -80,-35.817 -80,-80 z"
+         stroke="#ffffff"
+         stroke-width="1.33333"
+         stroke-miterlimit="8"
+         fill="#a5a5a5"
+         fill-rule="evenodd"
+         id="path1577" />
+      <text
+         fill="#ffffff"
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="16px"
+         transform="translate(601.743,328)"
+         id="text1579">structural</text>
+      <text
+         fill="#ffffff"
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="16px"
+         transform="translate(601.743,346)"
+         id="text1581">properties</text>
+      <text
+         fill="#ffffff"
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="12px"
+         transform="translate(601.743,367)"
+         id="text1583">•</text>
+      <text
+         fill="#ffffff"
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="12px"
+         transform="translate(607.743,367)"
+         id="text1585">helical</text>
+      <text
+         fill="#ffffff"
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="12px"
+         transform="translate(641.816,367)"
+         id="text1587">propensity</text>
+      <text
+         fill="#ffffff"
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="12px"
+         transform="translate(601.743,382)"
+         id="text1589">•</text>
+      <text
+         fill="#ffffff"
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="12px"
+         transform="translate(607.743,382)"
+         id="text1591">solvent accessibility</text>
+      <path
+         d="m 462.5,230.5 c 0,-44.183 35.817,-80 80,-80 44.183,0 80,35.817 80,80 0,44.183 -35.817,80 -80,80 -44.183,0 -80,-35.817 -80,-80 z"
+         stroke="#ffffff"
+         stroke-width="1.33333"
+         stroke-miterlimit="8"
+         fill="#ad6300"
+         fill-rule="evenodd"
+         id="path1593" />
+      <text
+         fill="#ffffff"
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="16px"
+         transform="translate(487.254,191)"
+         id="text1595">physical</text>
+      <text
+         fill="#ffffff"
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="16px"
+         transform="translate(542.387,191)"
+         id="text1597">and</text>
+      <text
+         fill="#ffffff"
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="16px"
+         transform="translate(487.254,209)"
+         id="text1599">chemical</text>
+      <text
+         fill="#ffffff"
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="16px"
+         transform="translate(487.254,226)"
+         id="text1601">properties</text>
+      <text
+         fill="#ffffff"
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="12px"
+         transform="translate(487.254,248)"
+         id="text1603">•</text>
+      <text
+         fill="#ffffff"
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="12px"
+         transform="translate(493.254,248)"
+         id="text1605">hydrophobicity</text>
+      <text
+         fill="#ffffff"
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="12px"
+         transform="translate(567.094,248)"
+         id="text1607">,</text>
+      <text
+         fill="#ffffff"
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="12px"
+         transform="translate(487.254,263)"
+         id="text1609">•</text>
+      <text
+         fill="#ffffff"
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="12px"
+         transform="translate(493.254,263)"
+         id="text1611">electrostatic</text>
+      <text
+         fill="#ffffff"
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="12px"
+         transform="translate(556.58,263)"
+         id="text1613">charge</text>
+      <text
+         fill="#ffffff"
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="12px"
+         transform="translate(487.254,278)"
+         id="text1615">•</text>
+      <text
+         fill="#ffffff"
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="12px"
+         transform="translate(493.254,278)"
+         id="text1617">polarity</text>
+      <path
+         d="m 626.5,192.5 c 0,-44.183 35.817,-80 80,-80 44.183,0 80,35.817 80,80 0,44.183 -35.817,80 -80,80 -44.183,0 -80,-35.817 -80,-80 z"
+         stroke="#ffffff"
+         stroke-width="1.33333"
+         stroke-miterlimit="8"
+         fill="#b43500"
+         fill-rule="evenodd"
+         id="path1619" />
+      <text
+         fill="#ffffff"
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="16px"
+         transform="translate(669.431,187)"
+         id="text1621">Amino</text>
+      <text
+         fill="#ffffff"
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="16px"
+         transform="translate(715.611,187)"
+         id="text1623">acid</text>
+      <text
+         fill="#ffffff"
+         font-family="Calibri, Calibri_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="16px"
+         transform="translate(678.631,205)"
+         id="text1625">residues</text>
+      <path
+         d="M 393.923,192.848 C 374.784,138.43 469.665,88.1166 605.846,80.4687 c 136.18,-7.6479 262.092,30.2663 281.231,84.6833 3.23,9.187 3.23,18.509 0,27.696 L 702.144,456.087 c -4.784,13.605 -36.262,23.083 -70.307,21.171 -27.501,-1.544 -49.116,-10.181 -52.981,-21.171 z M 411.4,179 c 0,43.962 102.572,79.6 229.1,79.6 126.529,0 229.1,-35.638 229.1,-79.6 0,-43.962 -102.571,-79.6001 -229.1,-79.6001 -126.528,0 -229.1,35.6381 -229.1,79.6001 z"
+         stroke="#ed7d31"
+         stroke-width="0.666667"
+         stroke-miterlimit="8"
+         fill="#ffffff"
+         fill-rule="evenodd"
+         fill-opacity="0.4"
+         id="path1627" />
+    </g>
+  </g>
+</svg>
