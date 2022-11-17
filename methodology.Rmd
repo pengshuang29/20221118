@@ -49,21 +49,3 @@ background-image: url(img/degerm.svg)
 background-size: contain
 
 # What I want to do next
-
----
-
-class: center, middle
-
-# The origin of Language/Life
-
-.pull-left-40[
-```{r, out.width = "150%", fig.align='center', fig.cap='La Confusion des langues, Gustave Doré.'}
-knitr::include_graphics("img/Confusion_of_Tongues.png")
-```
-]
-
-.pull-right-60[
-```{r, out.width = "150%"}
-knitr::include_graphics("img/AMPs.svg")
-```
-]
