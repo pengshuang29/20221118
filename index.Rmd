@@ -24,17 +24,21 @@ options(knitr.duplicate.label = 'allow')
 xaringanExtra::use_scribble()
 ```
 
-class: inverse, center, middle
+class: inverse
 
 # Content
 
-.left[
-- Anti-Microbial Peptides
+<br><br>
 
-- Machine-Learning Prediction Method
+## Anti-Microbial Peptides
 
-- The Problematic
-]
+<br><br>
+
+## Machine-Learning Prediction Method
+
+<br><br>
+
+## The Problematic
 
 ---
 
@@ -43,20 +47,24 @@ class: inverse, center, middle
 
 ---
 
-class: inverse, center, middle
+class: inverse
 
 # Problematic: we don't have enough annotated data
 
-.left[
-- Data pre-traitement
-  - deep learning "de bout en bout"
+<br>
+
+## Without Data pre-traitement ? 
+### deep learning "de bout en bout"
+
+--
+
+## Reusable model ? 
+### transfer learning
   
-- Reusable model
-  - Transfer learning
+--
   
-- Supervised learnring without annotation
-  - self-supervised learning
-]
+## Supervised learnring without annotation ? 
+### self-supervised learning
 
 ---
 
